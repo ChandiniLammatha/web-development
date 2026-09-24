@@ -1,0 +1,14 @@
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+}
+/* .hero{
+
+} */

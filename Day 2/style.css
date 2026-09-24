@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+h2{
+    color:blue;
+}
+h3{
+    color: blanchedalmond;
+}
+h4{
+    color:black;
+}
+h5{
+    color:aqua;
+}
+h6{
+    color:blueviolet;
+}
+.Jhon{
+    border-style:solid;
+    border-color:aqua;
+    border-width: 10px;
+    width:40%;
+    text-align:left;
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+    background-color: black;
+    color:white;
+    padding: 30px;
+    margin:100px;
+}
